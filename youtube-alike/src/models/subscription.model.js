@@ -14,4 +14,4 @@ const subscriptionSchema = new Schema({
 
 
 
-export const Subsscription = moongoose.model("Subsscription",subscriptionSchema)
+export const Subscription = moongoose.model("Subsscription",subscriptionSchema)
